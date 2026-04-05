@@ -5,7 +5,7 @@
 
 <!-- GLITCH / TYPING EFFECT -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&pause=500&color=D4AF37&center=true&vCenter=true&width=800&lines=⚡+JANUS+LADERO;👑+AI+%2B+BLOCKCHAIN+ARCHITECT;🚀+AUTOMATION+SYSTEM+BUILDER;🔥+SCALING+DIGITAL+ECONOMIES"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&pause=500&color=6A0DAD&center=true&vCenter=true&width=800&lines=⚡+JANUS+LADERO;👑+AI+%2B+BLOCKCHAIN+ARCHITECT;🚀+AUTOMATION+SYSTEM+BUILDER;🔥+SCALING+DIGITAL+ECONOMIES"/>
 </h1>
 
 <!-- BADGES -->
@@ -57,12 +57,12 @@
 
 ---
 
-## ⚡ LIVE SYSTEM FLOW
-
-```mermaid
 flowchart LR
-A[Scraper] --> B[Processor]
-B --> C[Database]
-C --> D[AI Brain]
-D --> E[Automation Engine]
-E --> F[Revenue]
+A1[⚡ Scraper] --> B1[🧠 Processor] --> C1[(💾 Database)]
+C1 --> D1[🤖 AI Brain] --> E1[🔄 Automation Engine] --> F1[💰 Revenue]
+
+A2[⚡ Scraper] --> B2[🧠 Processor] --> C2[(💾 Database)]
+C2 --> D2[🤖 AI Brain] --> E2[🔄 Automation Engine] --> F2[💰 Revenue]
+
+style A1 fill:#6A0DAD,stroke:#D4AF37,color:#fff
+style A2 fill:#6A0DAD,stroke:#FFD700,color:#fff
