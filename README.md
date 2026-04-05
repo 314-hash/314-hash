@@ -71,11 +71,37 @@ Thank you for your time and consideration.
 
 ---
 
-# 🟪🚀 Projects & Deployments
+## 🟪🚀 Projects & Deployments
 
-### **My Vercel Projects Portfolio**
+<p align="center">
+
+💻 **My Vercel Projects Portfolio**  
 > *(Login may be required to view private deployments)*  
-🔗 **https://vercel.com/janjanus-laderos-projects**
+
+🔗 <a href="https://vercel.com/janjanus-laderos-projects"><strong>VISIT PORTFOLIO →</strong></a>
+
+</p>
+
+<p align="center">
+
+<!-- MASSIVE PURPLE + GOLD BADGES FOR PROJECT TYPES -->
+<img src="https://img.shields.io/badge/Web3%20%26%20Blockchain-🎯-8134AF?style=for-the-badge&logo=ethereum&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/AI%20Automation-🤖-D4AF37?style=for-the-badge&logo=python&logoColor=8134AF"/>
+<img src="https://img.shields.io/badge/SaaS%20Platforms-⚡-8134AF?style=for-the-badge&logo=vercel&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Smart%20Contracts-💎-D4AF37?style=for-the-badge&logo=solidity&logoColor=8134AF"/>
+<img src="https://img.shields.io/badge/Cloud%20Scaling-☁️-8134AF?style=for-the-badge&logo=aws&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Automation%20Agents-🔄-D4AF37?style=for-the-badge&logo=robotframework&logoColor=8134AF"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<!-- TYPING ANIMATION CTA -->
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=700&color=D4AF37&center=true&vCenter=true&width=900&lines=Explore+Web3+Deployments+%2B+AI+Automation+Projects;Click+Above+to+Access+Portfolio;Powered+by+Purple+%2B+Gold+Branding"/>
+
+</p>
 
 ---
 
