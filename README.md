@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=32&pause=1000&color=C69DF6&center=true&vCenter=true&width=900&lines=JANUS+LADERO;Blockchain+Developer+%7C+Backend+Architect;Compliance-Driven+Systems+Engineer;Purple+%E2%9C%A8+Black+%F0%9F%92%8E+Gold" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=32&pause=1000&color=C69DF6&center=true&vCenter=true&width=900&lines=JANUS+LADERO;Blockchain+Developer+%7C+Backend+Architect;Compliance-Driven+Systems+Engineer;Prompt+Engineer+%E2%9C%A8+AI+Developer+%F0%9F%92%8E+Automations" alt="Typing animation" />
 </p>
 
 <br/>
