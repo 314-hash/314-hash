@@ -187,6 +187,8 @@ Thank you for your time and consideration.
 
 ---
 
+---
+
 ## 🟡🜁 Featured Portfolio
 
 <!-- TYPING / GLOWING SVG ANIMATION -->
@@ -194,10 +196,10 @@ Thank you for your time and consideration.
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=0&color=FFD700&center=true&vCenter=true&width=900&lines=🔥+Explore+My+Portfolio;⚡+AI+%2B+Blockchain+Systems;🚀+Scalable+Automation+Projects"/>
 </p>
 
-<!-- VISUAL THUMBNAIL LINK -->
+<!-- WEBSITE PREVIEW LINK -->
 <p align="center">
   <a href="https://extropian-janus.vercel.app/" target="_blank">
-    <img src="https://extropian-janus.vercel.app/thumbnail.png" alt="Portfolio Website Preview" width="600" style="border-radius:15px;box-shadow:0 0 20px #D4AF37;"/>
+    <img src="https://api.microlink.io/?url=https://extropian-janus.vercel.app/&screenshot=true&embed=screenshot.url" alt="Portfolio Website Preview" width="600" style="border-radius:15px;box-shadow:0 0 20px #D4AF37;"/>
   </a>
 </p>
 
