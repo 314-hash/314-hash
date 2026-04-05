@@ -1,63 +1,92 @@
-# 👋 Hi, I'm Janus Ladero
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=32&pause=1000&color=C69DF6&center=true&vCenter=true&width=900&lines=JANUS+LADEROS;Blockchain+Developer+%7C+Backend+Architect;Compliance-Driven+Systems+Engineer;Purple+%E2%9C%A8+Black+%F0%9F%92%8E+Gold" alt="Typing animation" />
+</p>
 
-I'm a **Blockchain Developer** with a passion for building secure, scalable, and compliant web systems. I specialize in backend architecture, decentralized technologies, and modern cloud-native deployments.
+<br/>
 
-🔗 Connect with my deployed work on **Vercel**:  
-👉 https://vercel.com/janjanus-laderos-projects
-
----
-
-## 🚀 About Me
-
-- 🔭 I’m currently working on backend systems and fintech/cannabis compliance-aware platforms.
-- 💡 I’m passionate about building scalable applications with security and auditability baked in.
-- 🌱 I'm constantly learning and experimenting with cloud infrastructure, blockchain protocols, and distributed systems.
-- ⚡ Fun fact: I draw inspiration from both cutting-edge tech and classical mythology.
+<!-- PROFILE BADGE -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Theme-Purple%20%2F%20Black%20%2F%20Gold-8134AF?style=for-the-badge&logoColor=gold" />
+  <img src="https://img.shields.io/badge/Role-Blockchain%20Developer-5A189A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend%20Architect-Secure%20%26%20Compliant-240046?style=for-the-badge&logo=shieldcheck&logoColor=gold" />
+</p>
 
 ---
 
-## 🛠 Skills & Technologies
+# 🟣✨ Welcome
 
-| Category | Skills |
-|----------|--------|
-| Backend | Node.js, TypeScript, Go, Python |
-| Blockchain | Smart contracts, consensus mechanisms |
-| Cloud | AWS, Vercel, serverless |
-| Databases | PostgreSQL, Redis |
-| DevOps | CI/CD, scalable APIs, observability |
-| Compliance | Audit logs, regulatory reporting, secure transactions |
+I'm **Janus**, a backend architect and blockchain developer creating systems that blend **security**, **compliance**, and **high-scale engineering**.  
+Inspired by myth, driven by precision.
 
 ---
 
-## 📦 Sample Vercel Projects
+## 🟪💼 About Me
 
-Below are links to my Vercel project portfolio (authentication may be required to view):
-
-🔗 **Vercel Projects Dashboard**  
-https://vercel.com/janjanus-laderos-projects
-
-> Each project listed under this link represents a deployed web application or service I've built and deployed using Vercel’s platform. :contentReference[oaicite:0]{index=0}
-
----
-
-## 📫 Get in Touch
-
-- 📧 Email: *your-email@example.com*  
-- 🔗 LinkedIn: https://linkedin.com/in/blockchaindeveloper2025 :contentReference[oaicite:1]{index=1}
+- Backend systems architect (fintech, payments, compliance, cannabis retail)
+- Blockchain protocol & decentralization engineering
+- Obsessed with secure, auditable, tamper-proof systems
+- Passion for purple-themed UI/UX and gold-accented branding  
+- Constant learner exploring AI, cryptography, and cloud scaling strategies
 
 ---
 
-## 💼 Professional Summary
+## 🟣⚙️ Core Skills
 
-I’m focused on building backend infrastructures that prioritize:
-
-- **Security & Compliance**
-- **Immutable Audit Logging**
-- **Scalability & Reliability**
-- **Cloud Native Deployment**
-
-Whether it's blockchain ecosystems, API platforms, or compliance-critical enterprise systems—my goal is to deliver robust, production-ready solutions.
+| Category | Tools |
+|---------|-------|
+| **Backend** | Node.js, TypeScript, Python, Go |
+| **Blockchain** | Solidity, consensus systems, smart contract audits |
+| **Cloud** | Vercel, AWS, Serverless |
+| **Databases** | PostgreSQL, Redis |
+| **Compliance** | Regulatory tracking, audit logs, secure transaction flows |
+| **DevOps** | CI/CD, observability, scalable API infrastructure |
 
 ---
 
-Thanks for checking out my profile! 🚀
+# 🟪🚀 Projects & Deployments
+
+### **My Vercel Projects Portfolio**
+> *(Login may be required to view private deployments)*  
+🔗 **https://vercel.com/janjanus-laderos-projects**
+
+---
+
+# 🟣📊 GitHub Aesthetic Stats (Purple Theme)
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=janjanus-laderos&show_icons=true&theme=tokyonight&title_color=C69DF6&icon_color=D4AF37&text_color=C69DF6&bg_color=000000" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=janjanus-laderos&theme=tokyonight&ring=D4AF37&fire=C69DF6&currStreakLabel=D4AF37" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janjanus-laderos&layout=compact&theme=tokyonight&title_color=C69DF6&text_color=C69DF6&bg_color=000000" />
+</p>
+
+---
+
+# 🟪💬 Contact Me
+
+- 🌐 LinkedIn: https://linkedin.com/in/blockchaindeveloper2025  
+- 📧 Email: *najnajoredal@gmail.com/mophirians@gmail.com/extropianjanus@gmail.com*  
+- 🧪 Portfolio deployments: Vercel (link above)
+
+---
+
+# 🟣🜁 Closing Message
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&pause=1200&color=D4AF37&center=true&vCenter=true&width=850&lines=Crafting+systems+built+on+security.;Architecting+compliance-ready+infrastructure.;Scaling+cloud+apps+with+precision.;Powered+by+Purple%2C+Black%2C+and+Gold." />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/0Z9bU8T.gif" width="120" />
+</p>
+
+---
+
+<div align="center">
+  
+### **🌑🟣 Thanks for visiting — may your builds be secure, scalable, and legendary.**
+
+</div>
