@@ -183,6 +183,27 @@ Thank you for your time and consideration.
 
 ---
 
+## 🟡🜁 Featured LinkedIn Post (Auto-Play Animation)
+
+<!-- TYPING / GLOWING SVG ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=0&color=FFD700&center=true&vCenter=true&width=900&lines=🔥+AI+%2B+Blockchain+Update;⚡+Scalable+Automation;🚀+Check+LinkedIn+for+Full+Post" />
+</p>
+
+<!-- LOOPING GIF AS AUTO-PLAY VISUAL -->
+<p align="center">
+  <a href="https://www.linkedin.com/posts/activity-7444772208784343042-Q55I?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZT9qYBRRjtluSH_VZURvExD2QNanrROMw" target="_blank">
+    <img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" alt="LinkedIn Post Preview" width="600" style="border-radius:15px;"/>
+  </a>
+</p>
+
+<p align="center">
+🌑🟣 **Click above to view the full post on LinkedIn!**  
+💡 GIF auto-animates to simulate live action and engagement.
+</p>
+
+---
+
 <p align="center">
 
 🟡 SYSTEMS OVER HUSTLE  
