@@ -1,125 +1,154 @@
-<!-- ====== CENTERED EMBLEM ====== -->
+<!-- ============================================================= -->
+<!--           CYBER AURA BACKGROUND ANIMATION BANNER              -->
+<!-- ============================================================= -->
+
 <p align="center">
-  <img src="assets/emblem.jpeg" width="420" style="border-radius: 12px;" />
+  <img src="https://i.imgur.com/LxX4lH8.gif" width="100%" />
 </p>
 
-<!-- ====== VIDEO INTRO (LOOPING) ====== -->
-<p align="center">
-  <video src="assets/intro.mp4" width="620" autoplay loop muted playsinline style="border-radius: 14px; outline: 2px solid #D4AF37;"></video>
-</p>
+<!-- ============================================================= -->
+<!--                ANIMATED HEADER (TEAL / GOLD)                  -->
+<!-- ============================================================= -->
 
-<!-- ====== GLITCHY PURPLE HEADER ====== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&duration=2600&pause=800&color=C69DF6&center=true&vCenter=true&width=1200&height=100&lines=JANUS+LADEROS;Blockchain+Developer;Backend+Architect;Purple+%E2%9C%A8+Black+%F0%9F%92%8E+Gold;Compliance+%7C+Security+%7C+Scale" />
-</p>
-
-<br>
-
-<!-- ====== BADGES ====== -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Theme-Purple%20Black%20Gold-7F00FF?style=for-the-badge&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/Blockchain-Developer-5A189A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Architect-240046?style=for-the-badge&logo=shieldcheck&logoColor=D4AF37" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=1100&lines=JANUS+LADEROS;Backend+Architect+%7C+AI+Developer+%7C+Prompt+Engineer;Blockchain+Engineer+%7C+Compliance+Systems;Teal+.+Blue+.+Gold+Energy+Mode" />
 </p>
 
 ---
 
-<!-- ====== ANIMATED DIVIDER ====== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="88%" />
-</p>
-
-# 🟣✨ About Me
-
-I’m **Janus**, a backend architect and blockchain engineer specializing in **security-critical**, **compliance-regulated**, and **high-scale** systems.
-
-🔐 Compliance-first backend design  
-📜 Immutable audit trails & state enforcement  
-⚙️ Scalable API ecosystems  
-☁️ Cloud-based deployments  
-🟪 Aesthetic philosophy: **Purple Energy × Black Depth × Gold Precision**
-
----
-
-<!-- ====== SIDE GLOW ANIMATION ====== -->
-<p align="center">
-  <img src="https://i.imgur.com/7Vb4VYu.gif" width="680"/>
-</p>
-
-# 🟪🛠 Skills
-
-### 💠 Backend Engineering  
-`Node.js` • `TypeScript` • `Go` • `Python`
-
-### 💠 Blockchain Engineering  
-`Smart Contracts` • `Consensus Mechanisms` • `Protocol Architecture`
-
-### 💠 Cloud & Infra  
-`AWS` • `Vercel` • `Serverless` • `CI/CD Pipelines`
-
-### 💠 Security & Compliance  
-`Audit Logging` • `Regulated Retail Systems` • `Encrypted Architectures`
-
----
-
-<!-- ====== GOLD DIVIDER ====== -->
-<p align="center">
-  <img src="https://i.imgur.com/SqVQJ1Y.gif" width="90%" />
-</p>
-
-# 🟣🚀 Projects & Deployments
-
-### **Vercel Portfolio (Live Deployments)**  
-🔗 https://vercel.com/janjanus-laderos-projects  
-
-*(Authentication may be required for private deployments.)*
-
----
-
-<!-- ====== GLOWING CHART ====== -->
-<p align="center">
-  <img src="https://i.imgur.com/u1G8nYz.gif" width="480"/>
-</p>
-
-# 🟪📊 GitHub Stats
+<!-- ============================================================= -->
+<!--             HOVER-ANIMATED GOLD SIGNATURE BADGE               -->
+<!-- ============================================================= -->
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=janjanus-laderos&show_icons=true&theme=tokyonight&title_color=C69DF6&icon_color=D4AF37&text_color=C69DF6&bg_color=000000" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=janjanus-laderos&theme=tokyonight&fire=C69DF6&ring=D4AF37&background=000000" />
+  <img src="https://img.shields.io/badge/AI_Developer-%20-%20?style=for-the-badge&color=00d4ff" />
+  <img src="https://img.shields.io/badge/Prompt_Engineer-%20-%20?style=for-the-badge&color=008cff" />
+  <img src="https://img.shields.io/badge/Blockchain_Architect-%20-%20?style=for-the-badge&color=D4AF37" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janjanus-laderos&layout=compact&theme=tokyonight&title_color=C69DF6&text_color=C69DF6&bg_color=000000" />
+  <img src="https://i.imgur.com/CvkxP0R.gif" width="80%" />
 </p>
 
 ---
 
-<!-- ====== FLOATING ORBS ====== -->
-<p align="center">
-  <img src="https://i.imgur.com/6YV8Zje.gif" width="240" />
-</p>
+<!-- ============================================================= -->
+<!--            GLOWING TITLE WITH BACKGROUND ANIMATION            -->
+<!-- ============================================================= -->
 
-# 🟣📫 Contact Me
+<h1 align="center">
+  <img src="https://i.imgur.com/k9X7lLN.gif" width="60%" />
+</h1>
 
-- 🌐 LinkedIn: https://linkedin.com/in/blockchaindeveloper2025  
-- 📧 Email: *your-email@example.com*  
-- 🔗 Vercel Projects: https://vercel.com/janjanus-laderos-projects
+# 🌌 About Me (Massive Edition)
+
+I am a **Backend Architect**, **AI Developer**, **Prompt Engineer**, and **Blockchain Engineer**  
+focused on **audit-secure**, **regulation-aware**, **AI-augmented**,  
+**high-performance** cloud systems.
+
+I work at the intersection of:
+
+🌀 **AI Orchestration & LLM Automation**  
+🌀 **Secure Backend Engineering**  
+🌀 **Regulated Retail Systems (Cannabis, Fintech)**  
+🌀 **Blockchain Logic & Consensus Workflows**  
+🌀 **Scalable Cloud Architecture**  
+
+All with a signature style:  
+**Teal Glow • Blue Energy • Gold Precision**
 
 ---
 
-<!-- ====== FINAL ANIMATED OUTRO ====== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&size=30&duration=3200&pause=1200&color=D4AF37&center=true&vCenter=true&width=900&lines=Build+Fearlessly.;Design+with+Elegance.;Secure+Everything.;Purple+Glow.+Black+Depth.+Gold+Precision." />
-</p>
+<!-- ============================================================= -->
+<!--           PARTICLE ANIMATED SECTION DIVIDER (GOLD)            -->
+<!-- ============================================================= -->
 
 <p align="center">
-  <img src="https://i.imgur.com/0Z9bU8T.gif" width="130"/>
+  <img src="https://i.imgur.com/Hn3Xr9M.gif" width="70%" />
 </p>
+
+# ⚡ Skills (Hyper Animated)
+
+### 🚀 Backend Engineering  
+- Node.js  
+- TypeScript  
+- Go  
+- Python  
+- Microservices  
+- API Architecture  
+- Serverless Systems  
+
+### 🤖 AI Engineering  
+- LLM Development  
+- Prompt Engineering  
+- AI Agents  
+- Automation Systems  
+- RAG + Vector Pipelines  
+- Model Integration  
+
+### 🔗 Blockchain Engineering  
+- Smart Contracts  
+- Solidity  
+- Consensus Logic  
+- Protocol Architecture  
+- Web3 Integration  
+
+### ☁️ Cloud & Infrastructure  
+- AWS  
+- Vercel  
+- CI/CD  
+- Cloud Scaling  
+- Distributed Systems  
+
+### 🔐 Compliance & Security  
+- Audit Trails  
+- Secure Transactions  
+- Verification Pipelines  
+- Anti-tamper Designs  
 
 ---
 
-<div align="center">
+<!-- ============================================================= -->
+<!--                HOVER EXPANDING PROJECT HEADER                 -->
+<!-- ============================================================= -->
 
-## 🌑🟣 **Thank you for visiting — may your code shine in gold and glow in purple.**
+<p align="center">
+  <img src="https://i.imgur.com/3nzt3wH.gif" width="70%" />
+</p>
 
-</div>
+# 🚀 Projects & Deployments
+
+### **Vercel Portfolio**  
+📌 https://vercel.com/janjanus-laderos-projects
+
+---
+
+<!-- ============================================================= -->
+<!--                     ANIMATED CONTACT PANEL                    -->
+<!-- ============================================================= -->
+
+<p align="center">
+  <img src="https://i.imgur.com/Td7mPjO.gif" width="60%" />
+</p>
+
+# 📫 Contact Me
+
+- **Facebook:** https://www.facebook.com/profile.php?id=61556818550078  
+- **LinkedIn:** https://linkedin.com/in/blockchaindeveloper2025  
+- **Email:** *your-email@example.com*  
+
+---
+
+<!-- ============================================================= -->
+<!--                   FINAL MASSIVE OUTRO ANIMATION               -->
+<!-- ============================================================= -->
+
+<p align="center">
+  <img src="https://i.imgur.com/Z6qRZ8b.gif" width="90%" />
+</p>
+
+<h2 align="center">⚡ Thanks for Visiting — Enter the Teal • Blue • Gold Realm ⚡</h2>
+
+<p align="center">
+  <img src="https://i.imgur.com/F93rRUo.gif" width="130" />
+</p>
