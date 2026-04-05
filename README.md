@@ -39,12 +39,10 @@ Thank you for your time and consideration.
 
 ## 🟪💼 About Me
 
-- Backend systems architect (fintech, payments, compliance, cannabis retail)
-- Blockchain protocol & decentralization engineering
-- Obsessed with secure, auditable, tamper-proof systems
-- Passion for purple-themed UI/UX and gold-accented branding  
-- Constant learner exploring AI, cryptography, and cloud scaling strategies
-- Prompt Engineering And Ai Developer Building Automations
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=700&color=D4AF37&center=true&vCenter=true&width=900&lines=-+Backend+systems+architect+%28fintech,+payments,+compliance,+cannabis+retail%29;-+Blockchain+protocol+%26+decentralization+engineering;-+Obsessed+with+secure,+auditable,+tamper-proof+systems;-+Passion+for+purple-themed+UI%2FUX+and+gold-accented+branding;-+Constant+learner+exploring+AI,+cryptography,+and+cloud+scaling+strategies;-+Prompt+Engineering+and+AI+developer+building+automations"/>
+</p>
+
 ---
 
 ## 🟣⚙️ Core Skills
