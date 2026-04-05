@@ -7,9 +7,9 @@
 
 <!-- PROFILE BADGE -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Theme-Purple%20%2F%20Black%20%2F%20Gold-8134AF?style=for-the-badge&logoColor=gold" />
-  <img src="https://img.shields.io/badge/Role-Blockchain%20Developer-5A189A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend%20Architect-Secure%20%26%20Compliant-240046?style=for-the-badge&logo=shieldcheck&logoColor=gold" />
+  <img src="https://www.linkedin.com/in/blockchaindeveloper2025/)/badge/Linkedin%20%2F%20Black%20%2F%20Gold-8134AF?style=for-the-badge&logoColor=gold" />
+  <img src="https://www.facebook.com/profile.php?id=61581051299665/badge/FACEBOOK-5A189A?style=for-the-badge" />
+  <img src="https://x.com/OMaharlika24/badge/X/TWITTER-240046?style=for-the-badge&logo=shieldcheck&logoColor=gold" />
 </p>
 
 ---
