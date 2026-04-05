@@ -47,14 +47,27 @@ Thank you for your time and consideration.
 
 ## 🟣⚙️ Core Skills
 
-| Category | Tools |
-|---------|-------|
-| **Backend** | Node.js, TypeScript, Python, Go |
-| **Blockchain** | Solidity, consensus systems, smart contract audits |
-| **Cloud** | Vercel, AWS, Serverless |
-| **Databases** | PostgreSQL, Redis |
-| **Compliance** | Regulatory tracking, audit logs, secure transaction flows |
-| **DevOps** | CI/CD, observability, scalable API infrastructure |
+<p align="center">
+
+<!-- BACKEND -->
+<img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20TypeScript%20%7C%20Python%20%7C%20Go-D4AF37?style=for-the-badge&logo=node.js&logoColor=white"/>
+  
+<!-- BLOCKCHAIN -->
+<img src="https://img.shields.io/badge/Blockchain-Solidity%20%7C%20Consensus%20Systems%20%7C%20Audits-8134AF?style=for-the-badge&logo=ethereum&logoColor=FFD700"/>
+  
+<!-- CLOUD -->
+<img src="https://img.shields.io/badge/Cloud-Vercel%20%7C%20AWS%20%7C%20Serverless-D4AF37?style=for-the-badge&logo=aws&logoColor=black"/>
+  
+<!-- DATABASES -->
+<img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20Redis-8134AF?style=for-the-badge&logo=postgresql&logoColor=FFD700"/>
+  
+<!-- COMPLIANCE -->
+<img src="https://img.shields.io/badge/Compliance-Regulatory%20Tracking%20%7C%20Audit%20Logs%20%7C%20Secure%20Flows-D4AF37?style=for-the-badge&logoColor=white"/>
+  
+<!-- DEVOPS -->
+<img src="https://img.shields.io/badge/DevOps-CI%2FCD%20%7C%20Observability%20%7C%20Scalable%20API-8134AF?style=for-the-badge&logo=jenkins&logoColor=FFD700"/>
+
+</p>
 
 ---
 
