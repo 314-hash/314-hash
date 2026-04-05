@@ -17,7 +17,7 @@
 # 🟣✨ Welcome
 
 I'm **Janus**, a backend architect and blockchain developer creating systems that blend **security**, **compliance**, and **high-scale engineering**.  
-Inspired by myth, driven by precision.
+Inspired by myth, driven by precision, Prompt Engineer And AI Developer
 
 ---
 
@@ -28,7 +28,7 @@ Inspired by myth, driven by precision.
 - Obsessed with secure, auditable, tamper-proof systems
 - Passion for purple-themed UI/UX and gold-accented branding  
 - Constant learner exploring AI, cryptography, and cloud scaling strategies
-
+- Prompt Engineering And Ai Developer Building Automations
 ---
 
 ## 🟣⚙️ Core Skills
