@@ -185,23 +185,25 @@ Thank you for your time and consideration.
 
 ---
 
-## 🟡🜁 Featured LinkedIn Post (Keyboard Warrior Vibe)
+---
+
+## 🟡🜁 Featured Portfolio
 
 <!-- TYPING / GLOWING SVG ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=0&color=FFD700&center=true&vCenter=true&width=900&lines=🔥+AI+%2B+Blockchain+Update;⚡+Scalable+Automation;🚀+Check+LinkedIn+for+Full+Post" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=0&color=FFD700&center=true&vCenter=true&width=900&lines=🔥+Explore+My+Portfolio;⚡+AI+%2B+Blockchain+Systems;🚀+Scalable+Automation+Projects"/>
 </p>
 
-<!-- LOOPING KEYBOARD WARRIOR GIF -->
+<!-- VISUAL THUMBNAIL LINK -->
 <p align="center">
-  <a href="https://www.linkedin.com/posts/activity-7444772208784343042-Q55I?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZT9qYBRRjtluSH_VZURvExD2QNanrROMw" target="_blank">
-    <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Keyboard Warrior GIF" width="600" style="border-radius:15px;"/>
+  <a href="https://extropian-janus.vercel.app/" target="_blank">
+    <img src="https://extropian-janus.vercel.app/thumbnail.png" alt="Portfolio Website Preview" width="600" style="border-radius:15px;box-shadow:0 0 20px #D4AF37;"/>
   </a>
 </p>
 
 <p align="center">
-🌑🟣 **Click above to view the full post on LinkedIn!**  
-💡 Animated GIF simulates a coding hacker vibe for maximum impact.
+🌑🟣 **Click the image above to visit my portfolio and see my AI + Blockchain projects in action.**  
+💡 Glowing frame emphasizes the Purple + Gold theme.
 </p>
 
 🟡 SYSTEMS OVER HUSTLE  
