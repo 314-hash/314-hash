@@ -125,19 +125,38 @@ Inspired by myth, driven by precision, Prompt Engineer And AI Developer
 
 ---
 
-# 🟣🜁 Closing Message
+## 🟡🜁 Closing Message
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&pause=1200&color=D4AF37&center=true&vCenter=true&width=850&lines=Crafting+systems+built+on+security.;Architecting+compliance-ready+infrastructure.;Scaling+cloud+apps+with+precision.;Powered+by+Purple%2C+Black%2C+and+Gold." />
-</p>
 
-<p align="center">
-  <img src="https://i.imgur.com/0Z9bU8T.gif" width="120" />
+⚡ Crafting systems built on security  
+👑 Architecting compliance-ready infrastructure  
+🚀 Scaling cloud + AI systems with precision  
+💰 Building automation that creates real value  
+
 </p>
 
 ---
 
-<div align="center">
+<p align="center">
+
+🔗 <a href="https://www.linkedin.com/newsletters/blockchain-dev-academy-7366036905802530816/">
+<strong>Join Blockchain Dev Academy Newsletter →</strong>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+🟡 SYSTEMS OVER HUSTLE  
+🟡 AUTOMATION OVER MANUAL WORK  
+🟡 SCALE THROUGH CODE  
+
+</p>
+
+---
   
 ### **🌑🟣 Thanks for visiting — may your builds be secure, scalable, and legendary.**
 
