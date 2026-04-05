@@ -29,8 +29,11 @@
 
 # 🟣✨ Welcome
 
-I'm **Janus**, a backend architect and blockchain developer creating systems that blend **security**, **compliance**, and **high-scale engineering**.  
-Inspired by myth, driven by precision, Prompt Engineer And AI Developer
+Shipping an AI-powered blockchain MVP this week. Building fast with AI.
+My name is Janjanus Ladero from the philippines, and I'm a self-taught developer who's passionate about harnessing the power of AI to revolutionize the way we build software. Through dedicated learning and experimentation, I've honed my skills to leverage AI tools and techniques to develop a wide range of projects, from intricate websites to complex blockchain applications.
+I'm excited about the potential of AI to democratize development and solve complex problems. I believe that by combining human creativity with AI's efficiency and precision, we can create truly innovative and impactful solutions.
+I'm eager to connect with industry leaders like yourself to explore potential collaborations and learn from your expertise.
+Thank you for your time and consideration.
 
 ---
 
