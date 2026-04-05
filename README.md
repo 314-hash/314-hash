@@ -1,154 +1,89 @@
-<!-- ============================================================= -->
-<!--           CYBER AURA BACKGROUND ANIMATION BANNER              -->
-<!-- ============================================================= -->
+<!-- BEGIN README.HTML -->
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height:1.6;">
 
-<p align="center">
-  <img src="https://i.imgur.com/LxX4lH8.gif" width="100%" />
-</p>
+  <!-- Header Section -->
+  <div style="text-align:center; margin-bottom:30px;">
+    <h1 style="font-size:3em; margin:0;">Janus</h1>
+    <p style="font-size:1.2em; color: #666;">AI Developer | Prompt Engineer | Blockchain Enthusiast</p>
+    <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&count_private=true" 
+         alt="GitHub Stats" style="margin-top:15px; border-radius:10px;">
+  </div>
 
-<!-- ============================================================= -->
-<!--                ANIMATED HEADER (TEAL / GOLD)                  -->
-<!-- ============================================================= -->
+  <!-- Skills Section -->
+  <div style="display:flex; justify-content:space-around; flex-wrap:wrap; margin-bottom:40px;">
+    <div style="background:#0d1117; color:#c9d1d9; padding:20px; border-radius:15px; width:250px; margin:10px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);">
+      <h3 style="color:#58a6ff;">AI & ML</h3>
+      <ul>
+        <li>Prompt Engineering</li>
+        <li>GPT & LLMs Integration</li>
+        <li>Model Fine-tuning</li>
+        <li>Data Pipelines</li>
+      </ul>
+    </div>
+    <div style="background:#0d1117; color:#c9d1d9; padding:20px; border-radius:15px; width:250px; margin:10px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);">
+      <h3 style="color:#f0883e;">Blockchain</h3>
+      <ul>
+        <li>Smart Contracts (Solidity)</li>
+        <li>Consensus Mechanisms</li>
+        <li>Compliance & Auditing</li>
+        <li>DeFi Integrations</li>
+      </ul>
+    </div>
+    <div style="background:#0d1117; color:#c9d1d9; padding:20px; border-radius:15px; width:250px; margin:10px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);">
+      <h3 style="color:#2ea44f;">Web & Backend</h3>
+      <ul>
+        <li>Node.js & Python APIs</li>
+        <li>SQL & NoSQL Databases</li>
+        <li>Scalable Cloud Architecture</li>
+        <li>Secure Payments & Compliance</li>
+      </ul>
+    </div>
+  </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=1100&lines=JANUS+LADEROS;Backend+Architect+%7C+AI+Developer+%7C+Prompt+Engineer;Blockchain+Engineer+%7C+Compliance+Systems;Teal+.+Blue+.+Gold+Energy+Mode" />
-</p>
+  <!-- Projects Section -->
+  <div style="margin-bottom:40px;">
+    <h2 style="border-bottom:2px solid #58a6ff; display:inline-block;">🚀 Featured Projects</h2>
+    <div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:20px;">
+      <div style="flex:1 1 250px; background:#161b22; padding:20px; border-radius:15px; box-shadow:0 5px 15px rgba(0,0,0,0.3);">
+        <h3><a href="https://github.com/your-github-username/cannabis-vm-backend" style="color:#58a6ff; text-decoration:none;">Fiat-Only Cannabis Vending Backend</a></h3>
+        <p>Secure, compliance-ready backend for multi-machine vending, including audit logs, limits, and Metrc integration.</p>
+      </div>
+      <div style="flex:1 1 250px; background:#161b22; padding:20px; border-radius:15px; box-shadow:0 5px 15px rgba(0,0,0,0.3);">
+        <h3><a href="https://github.com/your-github-username/ai-prompt-hub" style="color:#58a6ff; text-decoration:none;">AI Prompt Hub</a></h3>
+        <p>Centralized prompt library for LLM testing, evaluation, and fine-tuning experiments.</p>
+      </div>
+      <div style="flex:1 1 250px; background:#161b22; padding:20px; border-radius:15px; box-shadow:0 5px 15px rgba(0,0,0,0.3);">
+        <h3><a href="https://github.com/your-github-username/blockchain-tools" style="color:#58a6ff; text-decoration:none;">Blockchain Compliance Toolkit</a></h3>
+        <p>Tools for regulatory compliance, audit tracking, and smart contract verification.</p>
+      </div>
+    </div>
+  </div>
 
----
+  <!-- Fun Stats Section -->
+  <div style="text-align:center; margin-bottom:40px;">
+    <h2 style="border-bottom:2px solid #f0883e; display:inline-block;">📊 GitHub Stats & Activity</h2>
+    <div style="margin-top:20px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" 
+           alt="Top Languages" style="border-radius:10px;">
+      <br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" 
+           alt="Streak Stats" style="margin-top:15px; border-radius:10px;">
+    </div>
+  </div>
 
-<!-- ============================================================= -->
-<!--             HOVER-ANIMATED GOLD SIGNATURE BADGE               -->
-<!-- ============================================================= -->
+  <!-- Contact Section -->
+  <div style="text-align:center; margin-bottom:20px;">
+    <h2 style="border-bottom:2px solid #2ea44f; display:inline-block;">📫 Connect with Me</h2>
+    <p>
+      <a href="https://linkedin.com/in/your-linkedin" style="margin:0 10px; color:#2ea44f;">LinkedIn</a> | 
+      <a href="https://twitter.com/your-twitter" style="margin:0 10px; color:#1da1f2;">Twitter</a> | 
+      <a href="mailto:youremail@example.com" style="margin:0 10px; color:#f0883e;">Email</a>
+    </p>
+  </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI_Developer-%20-%20?style=for-the-badge&color=00d4ff" />
-  <img src="https://img.shields.io/badge/Prompt_Engineer-%20-%20?style=for-the-badge&color=008cff" />
-  <img src="https://img.shields.io/badge/Blockchain_Architect-%20-%20?style=for-the-badge&color=D4AF37" />
-</p>
+  <footer style="text-align:center; color:#666; font-size:0.9em; margin-top:50px;">
+    Made with ❤️ by Janus
+  </footer>
 
-<p align="center">
-  <img src="https://i.imgur.com/CvkxP0R.gif" width="80%" />
-</p>
-
----
-
-<!-- ============================================================= -->
-<!--            GLOWING TITLE WITH BACKGROUND ANIMATION            -->
-<!-- ============================================================= -->
-
-<h1 align="center">
-  <img src="https://i.imgur.com/k9X7lLN.gif" width="60%" />
-</h1>
-
-# 🌌 About Me (Massive Edition)
-
-I am a **Backend Architect**, **AI Developer**, **Prompt Engineer**, and **Blockchain Engineer**  
-focused on **audit-secure**, **regulation-aware**, **AI-augmented**,  
-**high-performance** cloud systems.
-
-I work at the intersection of:
-
-🌀 **AI Orchestration & LLM Automation**  
-🌀 **Secure Backend Engineering**  
-🌀 **Regulated Retail Systems (Cannabis, Fintech)**  
-🌀 **Blockchain Logic & Consensus Workflows**  
-🌀 **Scalable Cloud Architecture**  
-
-All with a signature style:  
-**Teal Glow • Blue Energy • Gold Precision**
-
----
-
-<!-- ============================================================= -->
-<!--           PARTICLE ANIMATED SECTION DIVIDER (GOLD)            -->
-<!-- ============================================================= -->
-
-<p align="center">
-  <img src="https://i.imgur.com/Hn3Xr9M.gif" width="70%" />
-</p>
-
-# ⚡ Skills (Hyper Animated)
-
-### 🚀 Backend Engineering  
-- Node.js  
-- TypeScript  
-- Go  
-- Python  
-- Microservices  
-- API Architecture  
-- Serverless Systems  
-
-### 🤖 AI Engineering  
-- LLM Development  
-- Prompt Engineering  
-- AI Agents  
-- Automation Systems  
-- RAG + Vector Pipelines  
-- Model Integration  
-
-### 🔗 Blockchain Engineering  
-- Smart Contracts  
-- Solidity  
-- Consensus Logic  
-- Protocol Architecture  
-- Web3 Integration  
-
-### ☁️ Cloud & Infrastructure  
-- AWS  
-- Vercel  
-- CI/CD  
-- Cloud Scaling  
-- Distributed Systems  
-
-### 🔐 Compliance & Security  
-- Audit Trails  
-- Secure Transactions  
-- Verification Pipelines  
-- Anti-tamper Designs  
-
----
-
-<!-- ============================================================= -->
-<!--                HOVER EXPANDING PROJECT HEADER                 -->
-<!-- ============================================================= -->
-
-<p align="center">
-  <img src="https://i.imgur.com/3nzt3wH.gif" width="70%" />
-</p>
-
-# 🚀 Projects & Deployments
-
-### **Vercel Portfolio**  
-📌 https://vercel.com/janjanus-laderos-projects
-
----
-
-<!-- ============================================================= -->
-<!--                     ANIMATED CONTACT PANEL                    -->
-<!-- ============================================================= -->
-
-<p align="center">
-  <img src="https://i.imgur.com/Td7mPjO.gif" width="60%" />
-</p>
-
-# 📫 Contact Me
-
-- **Facebook:** https://www.facebook.com/profile.php?id=61556818550078  
-- **LinkedIn:** https://linkedin.com/in/blockchaindeveloper2025  
-- **Email:** *your-email@example.com*  
-
----
-
-<!-- ============================================================= -->
-<!--                   FINAL MASSIVE OUTRO ANIMATION               -->
-<!-- ============================================================= -->
-
-<p align="center">
-  <img src="https://i.imgur.com/Z6qRZ8b.gif" width="90%" />
-</p>
-
-<h2 align="center">⚡ Thanks for Visiting — Enter the Teal • Blue • Gold Realm ⚡</h2>
-
-<p align="center">
-  <img src="https://i.imgur.com/F93rRUo.gif" width="130" />
-</p>
+</div>
+<!-- END README.HTML -->
