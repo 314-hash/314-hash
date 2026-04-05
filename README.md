@@ -1,77 +1,68 @@
-<!-- HEADER BANNER -->
+<!-- TOP ANIMATION WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=JANUS%20LADERO&fontSize=60&fontAlignY=40&color=0:6A0DAD,50:D4AF37,100:6A0DAD&animation=fadeIn&fontColor=ffffff"/>
+</p>
+
+<!-- GLITCH / TYPING EFFECT -->
 <h1 align="center">
-  <span style="color:#D4AF37;">⚡ Janus Ladero</span> 
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&pause=500&color=D4AF37&center=true&vCenter=true&width=800&lines=⚡+JANUS+LADERO;👑+AI+%2B+BLOCKCHAIN+ARCHITECT;🚀+AUTOMATION+SYSTEM+BUILDER;🔥+SCALING+DIGITAL+ECONOMIES"/>
 </h1>
 
-<h3 align="center">
-  <span style="color:#6A0DAD;">Blockchain Developer • AI Automation Architect • Web3 Builder</span>
-</h3>
-
+<!-- BADGES -->
 <p align="center">
   <a href="https://www.linkedin.com/in/blockchaindeveloper2025/">
-    <img src="https://img.shields.io/badge/LinkedIn-Gold?style=for-the-badge&logo=linkedin&logoColor=white&color=D4AF37"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-GOLD?style=for-the-badge&logo=linkedin&logoColor=white&color=D4AF37"/>
   </a>
   <a href="https://vercel.com/janjanus-laderos-projects">
-    <img src="https://img.shields.io/badge/Vercel-Portfolio?style=for-the-badge&logo=vercel&logoColor=white&color=6A0DAD"/>
+    <img src="https://img.shields.io/badge/VERCEL-PORTFOLIO?style=for-the-badge&logo=vercel&logoColor=white&color=6A0DAD"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=61581051299665">
-    <img src="https://img.shields.io/badge/Facebook-Community?style=for-the-badge&logo=facebook&logoColor=white&color=1877F2"/>
+    <img src="https://img.shields.io/badge/FACEBOOK-COMMUNITY?style=for-the-badge&logo=facebook&logoColor=white&color=1877F2"/>
   </a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 ABOUT
 
-> “I don’t just write code — I build systems that create value.”
-
-I’m a **self-taught blockchain developer** and **AI automation architect** focused on building:
-
-- ⚡ Autonomous AI agents  
-- ⛓️ Smart contract ecosystems  
-- 📈 Lead generation & SaaS automation systems  
-- 🌐 Web3 infrastructure & decentralized applications  
-
-💡 My philosophy:  
-- Code = Trust  
-- Automation = Scale  
-- Blockchain = Ownership  
-
-📌 Based on my journey:
-- Learned by **building, breaking, and iterating fast** :contentReference[oaicite:0]{index=0}  
-- Focused on **real-world systems, not theory** :contentReference[oaicite:1]{index=1}  
-- Combining **AI + Blockchain → Autonomous economies** :contentReference[oaicite:2]{index=2}  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=6A0DAD&center=true&vCenter=true&width=900&lines=I+BUILD+SYSTEMS+THAT+PRINT+VALUE;AI+AGENTS+%2B+BLOCKCHAIN+%2B+AUTOMATION;FROM+ZERO+TO+SCALABLE+SAAS;CODE+IS+MY+LEVERAGE"/>
+</p>
 
 ---
 
-## ⚙️ Core Stack
+## ⚙️ TECH STACK
 
-```bash
-Languages:
-- JavaScript / TypeScript
-- Solidity
-- Python
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,solidity,postgres,docker,vercel"/>
+</p>
 
-Frameworks:
-- Node.js
-- Express
-- Next.js
+---
 
-Automation:
-- Playwright
-- n8n
-- Puppeteer
+## 🔥 PROJECT SYSTEMS
 
-Blockchain:
-- Ethers.js
-- Viem
-- Hardhat
-- Foundry
+### 🟣 AI Lead Engine
+- Playwright scraping system
+- Supabase storage
+- Scalable lead pipelines
 
-Database:
-- Supabase
-- PostgreSQL
+### 🟡 Smart Contract Suite
+- ERC20 + DAO + staking
+- Modular + upgradeable
 
-Cloud:
-- Vercel
-- Docker
+### 🟣 AI Automation Agents
+- n8n workflows
+- Autonomous execution
+- API-connected intelligence
+
+---
+
+## ⚡ LIVE SYSTEM FLOW
+
+```mermaid
+flowchart LR
+A[Scraper] --> B[Processor]
+B --> C[Database]
+C --> D[AI Brain]
+D --> E[Automation Engine]
+E --> F[Revenue]
