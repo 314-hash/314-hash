@@ -65,7 +65,7 @@ Inspired by myth, driven by precision, Prompt Engineer And AI Developer
 
 ---
 
-## 🟡📊 GitHub Performance Matrix (Gold Edition)
+## 🟡📊 GitHub Performance Matrix 
 
 <p align="center">
 
