@@ -65,19 +65,58 @@ Inspired by myth, driven by precision, Prompt Engineer And AI Developer
 
 ---
 
-# 🟣📊 GitHub Aesthetic Stats (Purple Theme)
+## 🟡📊 GitHub Performance Matrix (Gold Edition)
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=janjanus-laderos&show_icons=true&theme=tokyonight&title_color=C69DF6&icon_color=D4AF37&text_color=C69DF6&bg_color=000000" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=janjanus-laderos&theme=tokyonight&ring=D4AF37&fire=C69DF6&currStreakLabel=D4AF37" />
-</p>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janjanus-laderos&layout=compact&theme=tokyonight&title_color=C69DF6&text_color=C69DF6&bg_color=000000" />
+<!-- CORE IDENTITY -->
+<img src="https://img.shields.io/badge/USERNAME-janjanus--laderos-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
+
+<!-- ACTIVITY SIGNAL -->
+<img src="https://img.shields.io/badge/STATUS-ACTIVE%20BUILDER-D4AF37?style=for-the-badge&logo=clockify&logoColor=black"/>
+
+<!-- FOCUS -->
+<img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20BLOCKCHAIN-FFD700?style=for-the-badge&logo=ethereum&logoColor=black"/>
+
+<!-- SYSTEM TYPE -->
+<img src="https://img.shields.io/badge/SYSTEMS-AUTOMATION%20ENGINE-D4AF37?style=for-the-badge&logo=apacheairflow&logoColor=black"/>
+
 </p>
 
 ---
 
+<p align="center">
+
+<!-- STACK SIGNAL -->
+<img src="https://img.shields.io/badge/STACK-JS%20%7C%20TS%20%7C%20PYTHON-FFD700?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<!-- INFRA -->
+<img src="https://img.shields.io/badge/INFRA-SUPABASE%20%7C%20VERCEL-D4AF37?style=for-the-badge&logo=vercel&logoColor=black"/>
+
+<!-- AUTOMATION -->
+<img src="https://img.shields.io/badge/AUTOMATION-PLAYWRIGHT%20%2B%20N8N-FFD700?style=for-the-badge&logo=robotframework&logoColor=black"/>
+
+<!-- BLOCKCHAIN -->
+<img src="https://img.shields.io/badge/BLOCKCHAIN-SMART%20CONTRACTS-D4AF37?style=for-the-badge&logo=solidity&logoColor=black"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<!-- MINDSET -->
+<img src="https://img.shields.io/badge/MINDSET-SYSTEMS%20OVER%20HUSTLE-FFD700?style=for-the-badge"/>
+
+<!-- OUTPUT -->
+<img src="https://img.shields.io/badge/OUTPUT-SCALABLE%20SYSTEMS-D4AF37?style=for-the-badge"/>
+
+<!-- GOAL -->
+<img src="https://img.shields.io/badge/GOAL-AUTONOMOUS%20ECONOMIES-FFD700?style=for-the-badge"/>
+
+</p>
+
+---
 # 🟪💬 Contact Me
 
 - 🌐 LinkedIn: https://linkedin.com/in/blockchaindeveloper2025  
