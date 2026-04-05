@@ -1,68 +1,56 @@
-<!-- TOP ANIMATION WAVE -->
+<!-- 🔥 ULTRA CINEMATIC HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=JANUS%20LADERO&fontSize=60&fontAlignY=40&color=0:6A0DAD,50:D4AF37,100:6A0DAD&animation=fadeIn&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=350&text=JANUS%20LADERO&fontSize=70&fontAlignY=45&color=0:FFD700,50:D4AF37,100:FFD700&animation=twinkling&fontColor=000000"/>
 </p>
 
-<!-- GLITCH / TYPING EFFECT -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&pause=500&color=6A0DAD&center=true&vCenter=true&width=800&lines=⚡+JANUS+LADERO;👑+AI+%2B+BLOCKCHAIN+ARCHITECT;🚀+AUTOMATION+SYSTEM+BUILDER;🔥+SCALING+DIGITAL+ECONOMIES"/>
-</h1>
-
-<!-- BADGES -->
+<!-- ⚡ MULTI-LAYER ANIMATION STACK -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/blockchaindeveloper2025/">
-    <img src="https://img.shields.io/badge/LINKEDIN-GOLD?style=for-the-badge&logo=linkedin&logoColor=white&color=D4AF37"/>
-  </a>
-  <a href="https://vercel.com/janjanus-laderos-projects">
-    <img src="https://img.shields.io/badge/VERCEL-PORTFOLIO?style=for-the-badge&logo=vercel&logoColor=white&color=6A0DAD"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61581051299665">
-    <img src="https://img.shields.io/badge/FACEBOOK-COMMUNITY?style=for-the-badge&logo=facebook&logoColor=white&color=1877F2"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=45&duration=2500&pause=300&color=FFD700&center=true&vCenter=true&width=1000&lines=⚡+SYSTEMS+OVER+HUSTLE;👑+AI+%2B+BLOCKCHAIN+ARCHITECT;🚀+AUTOMATION+AT+SCALE;💰+DIGITAL+ECONOMY+ENGINEER"/>
+</p>
+
+<!-- 🔁 ROTATING TECH BADGES (VISUAL MOTION) -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,solidity,docker,postgres&perline=7"/>
 </p>
 
 ---
 
-## 🧠 ABOUT
+# 🧠 CORE IDENTITY (ANIMATED LOOP)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=6A0DAD&center=true&vCenter=true&width=900&lines=I+BUILD+SYSTEMS+THAT+PRINT+VALUE;AI+AGENTS+%2B+BLOCKCHAIN+%2B+AUTOMATION;FROM+ZERO+TO+SCALABLE+SAAS;CODE+IS+MY+LEVERAGE"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=D4AF37&center=true&vCenter=true&width=1000&lines=I+DON'T+BUILD+PROJECTS;I+BUILD+SYSTEMS;SYSTEMS+THAT+GENERATE+VALUE;AUTOMATION+IS+MY+LEVERAGE;CODE+SCALES+INFINITELY"/>
 </p>
 
 ---
 
-## ⚙️ TECH STACK
+# ⚡ LIVE SYSTEM FLOW (CINEMATIC ENGINE)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,solidity,postgres,docker,vercel"/>
-</p>
-
----
-
-## 🔥 PROJECT SYSTEMS
-
-### 🟣 AI Lead Engine
-- Playwright scraping system
-- Supabase storage
-- Scalable lead pipelines
-
-### 🟡 Smart Contract Suite
-- ERC20 + DAO + staking
-- Modular + upgradeable
-
-### 🟣 AI Automation Agents
-- n8n workflows
-- Autonomous execution
-- API-connected intelligence
-
----
-
+```mermaid
 flowchart LR
-A1[⚡ Scraper] --> B1[🧠 Processor] --> C1[(💾 Database)]
-C1 --> D1[🤖 AI Brain] --> E1[🔄 Automation Engine] --> F1[💰 Revenue]
 
-A2[⚡ Scraper] --> B2[🧠 Processor] --> C2[(💾 Database)]
-C2 --> D2[🤖 AI Brain] --> E2[🔄 Automation Engine] --> F2[💰 Revenue]
+%% CORE FLOW
+A[⚡ Scraper] -->|Data Stream| B[🧠 Processor]
+B -->|Structured Data| C[(💾 Database)]
+C -->|Feeds| D[🤖 AI Brain]
+D -->|Decisions| E[🔄 Automation Engine]
+E -->|Execution| F[💰 Revenue Engine]
 
-style A1 fill:#6A0DAD,stroke:#D4AF37,color:#fff
-style A2 fill:#6A0DAD,stroke:#FFD700,color:#fff
+%% GOLD DEPTH STYLING
+style A fill:#FFD700,stroke:#000,color:#000,stroke-width:3px
+style B fill:#D4AF37,stroke:#000,color:#000,stroke-width:3px
+style C fill:#000000,stroke:#FFD700,color:#FFD700,stroke-width:3px
+style D fill:#FFD700,stroke:#000,color:#000,stroke-width:4px
+style E fill:#D4AF37,stroke:#000,color:#000,stroke-width:4px
+style F fill:#FFD700,stroke:#000,color:#000,stroke-width:6px
+
+%% FLOW EMPHASIS
+linkStyle 0 stroke:#FFD700,stroke-width:3px
+linkStyle 1 stroke:#FFD700,stroke-width:3px
+linkStyle 2 stroke:#FFD700,stroke-width:4px
+linkStyle 3 stroke:#FFD700,stroke-width:5px
+linkStyle 4 stroke:#FFD700,stroke-width:6px
+
+%% GROUPING = SYSTEM FEEL
+subgraph ⚙️ AUTONOMOUS SYSTEM
+A --> B --> C --> D --> E --> F
+end
